@@ -28,6 +28,15 @@ API-music-player/
 └── README.md # Project documentation
 
 
+Future Improvements
+
+Add playlist support
+
+Add volume & progress controls
+
+Support for multiple APIs (Spotify, YouTube Music)
+
+
 ---
 
 ## ▶️ How to Run  
